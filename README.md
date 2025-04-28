@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/mseep-audited.png)](https://mseep.ai/app/anisirji-mcp-server-remote-setup-with-jwt-auth)
+
 # 🔐 SSE MCP Server with JWT Authentication
 
 This is a **Model Context Protocol (MCP)** SSE server with JWT-based authentication.  
